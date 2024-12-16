@@ -1,0 +1,213 @@
+[
+    {
+      "title": "COSC 109 COMPUTERS AND CREATIVITY (3)",
+      "description": "Creative activities involving symbolic manipulation and computer graphics; animation, dynamic story telling, computer music, visual effects, Web publishing, computer games, artwork and multimedia. Additional laboratory time required. Core: Creativity & Creative Development."
+    },
+    {
+      "title": "COSC 111 INFORMATION AND TECHNOLOGY FOR BUSINESS (3)",
+      "description": "Retrieve, process, classify, sort and evaluate data and information. Problem solving techniques, creative thinking skills, communication skills, team building, and professional ethics. Laboratories covering the Internet, spreadsheets, and databases. Additional laboratory time required. Students cannot earn credit for both this course and IDNM 101."
+    },
+    {
+      "title": "COSC 175 GEN COMPUTER SCI (4)",
+      "description": "Computer systems overview, algorithm development, data representation, software design and testing methodologies, and brief overview of advanced topics."
+    },
+    {
+      "title": "COSC 236 INTRODUCTION TO COMPUTER SCIENCE I (4)",
+      "description": "Introduction to structured problem-solving, algorithm development and computer programming. Three lecture hours and two laboratory hours.",
+      "prerequisite": "COSC 175 and at least one of [MATH 115, MATH 117, MATH 119, MATH 211, (MATH 231 or ECON 205), MATH 273, MATH 274, MATH 275, or a qualifying score on the Math Placement Exam]."
+    },
+    {
+      "title": "COSC 237 INTRODUCTION TO COMPUTER SCIENCE II (4)",
+      "description": "Development of programming and problem-solving skills, with a focus on object-oriented programming and design. Students will design and develop programs using encapsulation and information hiding, inheritance, polymorphism, and generics. Introduction to data structures and their implementations (lists, stacks, queues, and trees), recursion, and searching and sorting algorithms. Includes two laboratory hours per week.",
+      "prerequisite": "COSC 236; MATH 211 or MATH 273."
+    },
+    {
+      "title": "COSC 290 PRINCIPLES OF COMPUTER ORGANIZATION (4)",
+      "description": "Computer organization and architecture including computer arithmetic, digital logic, principles of assembly language, memory system organization, computer interfacing, CISC and RISC architecture. Three hours per week of laboratory work required.",
+      "prerequisite": "COSC 236 and (MATH 263 or MATH 267)."
+    },
+    {
+      "title": "COSC 310 SPECIAL TOPICS: ADVANCED PROGRAMMING (3)",
+      "description": "Advanced programming concepts within the context of a specific programming language for computer science and related majors. The course may be repeated up to 6 units when a different programming language is offered. Programming languages offered may include C, C++, C#, Python, Ruby, and others.",
+      "prerequisite": "COSC 237 and COSC 290."
+    },
+    {
+      "title": "COSC 311 DIGITAL TECH SOCI (3)",
+      "description": "Foundations and impacts of computing and digital technologies, including history, applications, and societal impacts.",
+      "prerequisite": "Junior status and two science courses or one math course and one science course."
+    },
+    {
+      "title": "COSC 314 INTRODUCTION TO CRYPTOGRAPHY (3)",
+      "description": "A broad introduction to cryptography and its mathematical foundations, including applications to computer-network security services and mechanisms (confidentiality, integrity, authentication, electronic case and others) and to various protocols in distributed computation.",
+      "prerequisite": "COSC 236; either MATH 263 or MATH 267; and either MATH 330 or MATH 331 (may be taken concurrently)."
+    },
+    {
+      "title": "COSC 321 COMPUTERIZATION AND ITS IMPACTS (3)",
+      "description": "Computer technology and its social and economic impacts on organizations and individuals.",
+      "prerequisite": "Junior/senior status and completion of two science courses or one math and one science course."
+    },
+    {
+      "title": "COSC 336 DATA STRUCTURES AND ALGORITHM ANALYSIS (4)",
+      "description": "Fundamental data structures used in programming and the basic techniques used to design and analyze algorithms. Topics include: complexity analysis of elementary algorithms, linear data structures, trees, heaps, graphs, search algorithms (balanced binary trees, B-trees, hashing), sorting algorithms, basic graph algorithms (graph traversal, topological sorting, shortest path, minimum spanning trees), and paradigms in the design of algorithms (divide and conquer, dynamic programming, greedy).",
+      "prerequisite": "COSC 237 and MATH 274."
+    },
+    {
+      "title": "COSC 340 SYSTEMS PROGRAMMING (3)",
+      "description": "Covers the underlying concepts underlying all computer systems and introduces the student to the low-level abstraction of a computer system from a programmer's point of view, with an emphasis on low-level Assembly and C programming. Topics include data representation, 32-bit vs. 64-bit implementation, device driver development, the process of compiling and linking, low-level memory management and basic processor architecture.",
+      "prerequisite": "COSC 237 and COSC 290; major standing."
+    },
+    {
+      "title": "COSC 350 DATA COMMUNICATIONS AND NETWORKING (3)",
+      "description": "Network architecture and protocols, data communications, LANs and cellular networks, forwarding and routing, TCP/IP suite, network programming and packet analysis.",
+      "prerequisite": "COSC 290.",
+      "corequisite": "COSC 336."
+    },
+    {   
+    "title": "COSC 397 INTERNSHIP IN COSC (3)",
+    "description": "Students work in local computing facility under on-site and faculty supervision. May be repeated for a maximum of 6 units. Only 3 units can be applied to the major. Minimum of 2.75 GPA. Graded S/U.",
+    "prerequisite": "COSC 336 and consent of the internship coordinator."
+    },
+    {
+    "title": "COSC 412 SOFTWARE ENGINEERING (3)",
+    "description": "Methodology of designing and programming for a wide area of applications with a high degree of modifiability, efficiency, reliability, and understanding.",
+    "prerequisite": "COSC 336."
+    },
+    {
+    "title": "COSC 417 INTRODUCTION TO THE THEORY OF COMPUTING (3)",
+    "description": "A general introduction to the theory of computation, including finite automata, compatibility, formal languages and their relation to automata, algorithms, and algorithmic complexity. The major emphasis will be on developing formal descriptions of computers and computational processes, and practical implications of theoretical results.",
+    "prerequisite": "COSC 336."
+    },
+    {
+    "title": "COSC 418 ETHICAL AND SOCIETAL CONCERNS OF COMPUTER SCIENTISTS (3)",
+    "description": "Ethical questions and societal concerns related to the widespread use of computers and the resulting responsibilities of computer scientists.",
+    "prerequisite": "Junior/senior standing; ENGL 317 or BUSX 301; must have previously taken a computing class.",
+    "core": "Ethical Issues & Perspectives."
+    },
+    {
+    "title": "COSC 431 SELECTED TOPICS COMPUTER SCIENCE (1-3)",
+    "description": "Independent studies in selected areas of computer science. A maximum of 4 units may be earned in selected topics.",
+    "prerequisite": "Consent of the instructor and 9 units of computer science."
+    },
+    {
+    "title": "COSC 432 REQUIREMENTS ANALYSIS & MODELING (3)",
+    "description": "Introduces the basic concepts as well as the principles of software requirements development. Students will learn how to elicit, analyze, and model requirements and gain practical knowledge of tools and techniques related to these requirements activities. Develops theoretical knowledge and practitioner skills critical for real world applications.",
+    "prerequisite": "COSC 412."
+    },
+    {
+    "title": "COSC 435 MOBILE APPLICATION DEVELOPMENT (3)",
+    "description": "A comprehensive, hands-on study of the design and creation of mobile applications using modern development environments and tools. Topics include mobile device architecture, event-handlers, location-based services, onboard mobile device sensors, programming languages, software engineering, user interface design, and mobile application distribution.",
+    "note": "This course has been offered as a special topic; students who have earned credit for this course as a special topic will not receive additional credit for COSC 435.",
+    "prerequisite": "COSC 336."
+    },
+    {
+    "title": "COSC 436 OBJECT-ORIENTED DESIGN & PROGRAMMING (3)",
+    "description": "Introduction to object-oriented design and programming technology (OOD/OOP). Main phases in object-oriented design and techniques in object-oriented programming. Programming language design and implementation issues for object-oriented languages.",
+    "prerequisite": "COSC 336."
+    },
+    {
+    "title": "COSC 439 OPERATING SYSTEMS (3)",
+    "description": "Operating systems as resource managers with emphasis on file processor, memory and device management and processes. Design and implementation of a simulated multiprogramming operating system.",
+    "prerequisite": "COSC 336."
+    },
+    {
+    "title": "COSC 440 OPERATING SYSTEMS SECURITY (3)",
+    "description": "An in-depth discussion of security concepts in operating systems. This course examines some of the security issues in current operating systems and discusses the existing tools and technologies for setting up a secure system.",
+    "prerequisite": "COSC 439."
+    },
+    {
+    "title": "COSC 442 SOFTWARE QUALITY ASSURANCE AND TESTING (3)",
+    "description": "A comprehensive study of concepts, techniques, and tools for software quality assurance and testing. Software testing at the unit, subsystem and system levels; test models and test design techniques; integration, regression, and system testing methods; static and dynamic analysis; security and reliability testing and assessment.",
+    "prerequisite": "COSC 412."
+    },
+    {
+    "title": "COSC 450 NETWORK SECURITY (3)",
+    "description": "Network security principles and applications, including authentication applications. IP security, Web security, network management security, wireless security and system security.",
+    "prerequisite": "MATH 314 and COSC 350."
+    },
+    {
+    "title": "COSC 455 PROGRAMMING LANGUAGES: DESIGN & IMPLEMENTATION (3)",
+    "description": "Underlying concepts in high-level programming languages and techniques for their implementation, a survey of a selected group of such languages along with a discussion of the interrelationship between programming and programming languages.",
+    "prerequisite": "COSC 336."
+    },
+    {
+    "title": "COSC 457 DATABASE MANAGEMENT SYSTEMS (3)",
+    "description": "Data models and sublanguages; security and integrity problems; functions of the database administrator; implementation and use of a database management system; a comparison of widely used DBMS packages.",
+    "prerequisite": "COSC 336."
+    },
+    {
+    "title": "COSC 458 APPLICATION SOFTWARE SECURITY (3)",
+    "description": "A study of security concepts in developing software applications. Discusses design principles for secure software development, and some of the security issues in current programming and scripting languages, database systems and Web servers.",
+    "prerequisite": "COSC 340 and COSC 455 and COSC 457 (COSC 457 may be taken concurrently)."
+    },
+    {
+    "title": "COSC 459 COMPUTER SIMULATION & MODELING (3)",
+    "description": "Simulation models and languages, data collection and output analysis, random number generation and Monte Carlo integration, model verification and validation, variance reduction techniques, optimization, the implementation and use of simulation techniques in problem solving.",
+    "prerequisite": "COSC 336 and MATH 330."
+    },
+    {
+    "title": "COSC 461 ARTIFICIAL INTELLIGENCE (3)",
+    "description": "A survey of the problems and techniques involved in producing or modeling intelligence in computers. Particular emphasis will be placed on representation of knowledge and basic paradigms of problem solving. Topics include game playing, theorem proving, natural language, and learning systems.",
+    "prerequisite": "COSC 336."
+    },
+    {
+    "title": "COSC 465 ROBOTICS (3)",
+    "description": "Physical mechanisms of robotics, issues of modeling, planning control and programming. Principles underlying the design and analysis of robotic systems, with emphasis on the autonomous, and behavior-based systems.",
+    "prerequisite": "COSC 336."
+    },
+    {
+    "title": "COSC 467 FOUNDATIONS OF DATA MINING (3)",
+    "description": "A comprehensive, hands-on study of the techniques and tools in the field of data mining and knowledge discovery in data (KDD). The foundations of data mining from a number of perspectives are covered, including exploratory analysis, classification, and/or cluster analysis.",
+    "prerequisite": "COSC 457."
+    },
+    {
+    "title": "COSC 471 COMPUTER GRAPHICS (3)",
+    "description": "An introduction to the field of computer generated and/or displayed graphics data. Covers the topics of representation, transformations, curve and 3-D problems, graphics hardware, and programming considerations.",
+    "prerequisite": "COSC 336."
+    },
+    {
+    "title": "COSC 481 CASE STUDIES IN COMPUTER SECURITY (3)",
+    "description": "An in-depth study of the practical aspects of computer security, including the study of common computer security vulnerabilities in a laboratory setting.",
+    "prerequisite": "COSC 440 and COSC 450."
+    },
+    {
+    "title": "COSC 482 TEACHING COMPUTER SCIENCE IN THE SECONDARY SCHOOLS (3)",
+    "description": "Best practices for teaching computer science at the secondary level, including the design of learning environments that promote effective teaching and learning in computer science classrooms; the development of lesson and unit plans to include real-world computing problems and project-based methodologies; and consideration of how to teach key computer programming concepts, data abstraction, and physical computing.",
+    "prerequisite": "Consent of department."
+    },
+    {
+    "title": "COSC 483 DESIGN & ANALYSIS ALGORITHMS (3)",
+    "description": "Algorithm design methods such as heuristics, backtrack programming, branch and bound, recursion, simulation, divide-and-conquer, balancing, and dynamic programming. Efficiency of algorithms - NP-complete problems.",
+    "prerequisite": "COSC 336."
+    },
+    {
+    "title": "COSC 484 WEB-BASED PROGRAM (3)",
+    "description": "Applications executing on a client-server system, emphasizing client side. Technologies include HTTP protocol, dynamic HTML, server-side programming, and client-side JavaScript libraries & frameworks.",
+    "prerequisite": "COSC 336."
+    },
+    {
+    "title": "COSC 485 REVERSE ENGINEERING AND MALWARE ANALYSIS (3)",
+    "description": "Provides students with effective conceptual as well as hands-on knowledge in the areas of Reverse Engineering and Malware Analysis. It follows a progressive approach that introduces relevant concepts and techniques while preparing students to become effective reverse engineering and malware analysts able to use standard methodologies for detecting, analyzing, reverse engineering and eradicating malware in computing systems.",
+    "prerequisite": "COSC 340; COSC 450."
+    },
+    {
+    "title": "COSC 490 SOFTWARE PROJECT PRACTICUM (3)",
+    "description": "A project-based course for computer science majors that provides students with the experience of working as part of a project team using current software design and development tools and environments. Projects will consist of all aspects of software development, including requirements analysis, design, and implementation.",
+    "prerequisite": "COSC 412; software engineering track majors only (or by department permission); senior standing."
+    },
+    {
+    "title": "COSC 492 INTERNSHIP IN SECONDARY EDUCATION - COMPUTER SCIENCE (6)",
+    "description": "Internship in public school classrooms under the guidance of a university supervisor. Graded S/U.",
+    "prerequisite": "COSC 482, SEMS 498, and consent of COSC department and Towson UTeach."
+    },
+    {
+    "title": "COSC 493 DIRECTED READINGS IN COMPUTER SCIENCE (3)",
+    "description": "Individual readings and background research, under the direction of a faculty member, in preparation for writing an honors thesis. (Restricted to students in the departmental honors program).",
+    "prerequisite": "Admission to the departmental honors program."
+    },
+    {
+    "title": "COSC 495 INDEPENDENT STUDY (1-3)",
+    "description": "Directed study in selected areas of Computer Science for which there is no regular course offered. The use of a proposal and well-defined objectives as well as a formal paper or project report are required.",
+    "prerequisite": "Senior standing in Computer Science and consent of instructor."
+    }
+]
+  

@@ -1,0 +1,257 @@
+[
+    {
+      "title": "COSC 501 FUNDAMENTALS OF DATA STRUCTURES AND ALGORITHM (6)",
+      "description": "Designed for graduate students to provide them with the necessary background in data structures and algorithm analysis. Topics include: objects and abstract data types, dynamic variables and pointers, recursion, sort and search, algorithms, linear and non-linear structures such as linked lists, trees and graphs, hashing, algorithms time complexity analysis, object-oriented design and programming. Graded S/U.",
+      "prerequisite": "Admission to COSC MS program"
+    },
+    {
+      "title": "COSC 502 COMPUTER ORGANIZATIONAL AND ASSEMBLY LANGUAGE FOR NON CS/CIS MAJOR (3)",
+      "description": "Computer organization and architecture including computer arithmetic, digital logic, assembly language, memory system organization, and computer interfacing. This course is a preparatory course for the Masters in Computer Science Program and has S/U grading.",
+      "prerequisite": "Degree-seeking status"
+    },
+    {
+      "title": "COSC 519 OPERATING SYSTEMS PRINCIPLES (3)",
+      "description": "An overview of the principles of operating systems. Topics include multiple processes, process synchronization and intercommunication, resource allocation, memory management, processor scheduling and I/O device management.",
+      "prerequisite": "Admission to the MS in Computer Science or Information Technology PhD program"
+    },
+    {
+      "title": "COSC 571 COMPUTER PERFORMANCE EVALUATION (3)",
+      "description": "Computer system performance evaluation methodologies, techniques and tools including different types of monitors as a measurement tool, workload characterization, important performance indices, analytic modeling with particular emphasis on the application of the operational queuing network modeling techniques to performance analysis and technical aspects of computer selection.",
+      "prerequisite": "COSC 519; or admission to the Information Technology PhD program"
+    },
+    {
+      "title": "COSC 578 DATABASE MANAGEMENT SYSTEMS I (3)",
+      "description": "Build theoretical foundation for database management systems, study different database models, relational algebra, relational calculus, SQL, ER, EER models, structured query formulations, database design, analysis and modeling, functional dependencies and normalization, and overview of next generation database management systems.",
+      "prerequisite": "Admission to the MS in Computer Science or Information Technology PhD program"
+    },
+    {
+      "title": "COSC 581 ARTIFICIAL INTELLIGENCE (3)",
+      "description": "A survey of the problems and techniques involved in producing or modeling intelligence in computers. Particular emphasis will be placed on representation of knowledge and basic paradigms of problem solving. Topics include game playing, theorem proving, natural language and learning systems.",
+      "prerequisite": "Admission to the MS in Computer Science or Information Technology PhD program"
+    },
+    {
+      "title": "COSC 583 DESIGN AND ANALYSIS OF ALGORITHMS (3)",
+      "description": "Algorithm design such as heuristics, backtrack programming, branch and bound, recursion, simulation and conquer, balancing and dynamic programming. Efficiency of algorithms-NP-complete problems.",
+      "prerequisite": "Admission to the MS in Computer Science or Information Technology PhD program"
+    },
+    {
+      "title": "COSC 600 ADVANCED DATA STRUCTURES AND ALGORITHM ANALYSIS (3)",
+      "description": "Data abstraction, linear data structures, file organization and access methods, memory management, advanced internal and external sort and search algorithms and the trade-offs involved in the use of different data organization.",
+      "prerequisite": "Admission to the MS in Computer Science or Information Technology PhD program"
+    },
+    {
+      "title": "COSC 601 SOFTWARE REQUIREMENTS ENGINEERING (3)",
+      "description": "Introduces the basic concepts and principles of software requirements engineering, and is designed to expose student to common tools and techniques, established methods for modeling software systems and various approaches to requirements engineering (structured, object oriented and formal). Intends to cover in its entirety the process of requirements engineering.",
+      "prerequisite": "AIT 624/COSC 612-Software Engineering; or admission to the Information Technology PhD program"
+    },
+    {
+      "title": "COSC 611 COMPUTER SIMULATION (3)",
+      "description": "Continuous and discrete event systems simulation application, implementation, role of modeling and languages, experimental design, data collection, verification, validation, object-oriented simulation, random variable generation, Monte Carlo methods for performance evaluation, sensitivity analysis and optimization.",
+      "prerequisite": "Admission to the MS in Computer Science or Information Technology PhD program"
+    },
+    {
+        "title": "COSC 612 SOFTWARE ENGINEERING I (3)",
+        "description": "Formal software engineering principles and practices and their application to the development of computer-based systems.",
+        "prerequisite": "Admission to the MS in Computer Science or Information Technology PhD program"
+    },
+    {
+        "title": "COSC 614 SOFTWARE ENGINEERING II (3)",
+        "description": "Formal process leading to requirements, design and test specifications, quantitative measures of useful software parameters, review of software systems components and complete design and test processes.",
+        "prerequisite": "COSC 612; or admission to the Information Technology PhD program"
+    },
+    {
+        "title": "COSC 617 ADVANCED WEB DEVELOPMENT (3)",
+        "description": "Design and implementation of distributed information systems involving the technologies developed for the World Wide Web (WWW). Emphasis will be given to server architectures, database connectivity and the enterprise packages provided by web development languages.",
+        "prerequisite": "COSC 600 and COSC 457/COSC 578; or admission to the Information Technology PhD program"
+    },
+    {
+        "title": "COSC 618 ENTERPRISE ARCHITECTURE (3)",
+        "description": "Provides a set of latest approaches in designing IT infrastructures aligning them with enterprise business activities at the architectural level, including business architecture, information architecture, solution architecture, and technology architecture.",
+        "prerequisite": "AIT 624 or COSC 612; or admission to the Information Technology PhD program"
+    },
+    {
+        "title": "COSC 638 ADVANCED COMPUTER ARCHITECTURES (3)",
+        "description": "Design principles for multiprocessor and RISC machines, comparison between RISC and CISC architectures, multiprocessor interconnection networks, memory organizations, parallel algorithms for sorting, image processing, FFT and various applications, data flow computers and VLST computations.",
+        "prerequisite": "Admission to the MS in Computer Science or Information Technology PhD program"
+    },
+    {
+        "title": "COSC 639 OPERATING SYSTEMS II (3)",
+        "description": "Implementation of operating systems for online multiprogramming environment. Primary and secondary storage management techniques, file security, data integrity and a detailed study of operating systems such as UNIX.",
+        "prerequisite": "COSC 439/COSC 519 or equivalent; or admission to the Information Technology PhD program"
+    },
+    {
+        "title": "COSC 641 INTRODUCTION TO E-COMMERCE (3)",
+        "description": "A broad overview and discussion of the technologies relevant to electronic commerce, including communication networks and the Internet, Web programming languages, computer security, electronic payments, multimedia databases and distributed transaction processing, and legal and ethical issues.",
+        "prerequisite": "COSC 600; or admission to the Information Technology PhD program"
+    },
+    {
+        "title": "COSC 643 INTERNET SUPPLY CHAIN MANAGEMENT (3)",
+        "description": "E-business strategies, Web-based system architecture, collaboration techniques among buyers and sellers. Focus on the technical aspects of supply chain management system, which include message passing framework, XML, DTD, XSL, XSLT, XPath, Web-based database manipulation, and VPN. Managerial aspects of e-business as well, including ERP systems.",
+        "prerequisite": "COSC 600; or admission to the Information Technology PhD program"
+    },
+    {
+        "title": "COSC 644 INTRODUCTION TO INFORMATION ASSURANCE (3)",
+        "description": "Principles, mechanisms, and implementation of information assurance. Emphasis on human and technological aspects of information assurance and methods of dealing with risks.",
+        "prerequisite": "COSC 600; or admission to the Information Technology PhD program"
+    },
+    {
+        "title": "COSC 645 APPLIED CRYPTOLOGY (3)",
+        "description": "A broad introduction to cryptography and its application to computer-network security services such as confidentiality, digital signature, access control, and electronic payments.",
+        "prerequisite": "COSC 600; or admission to the Information Technology PhD program"
+    },
+    {
+        "title": "COSC 647 APPLICATION SOFTWARE SECURITY (3)",
+        "description": "Security concepts in developing software applications, including design principles for secure development and security issues in programming languages, databases, and Web servers.",
+        "prerequisite": "COSC 578 and COSC 600; or admission to the Information Technology PhD program"
+    },
+    {
+        "title": "COSC 650 COMPUTER NETWORKS (3)",
+        "description": "Computer networking concepts and technologies, including architectures and protocols, LANs, Internet working, and applications.",
+        "prerequisite": "Admission to the MS in Computer Science or Information Technology PhD program"
+    },
+    {
+        "title": "COSC 657 DATABASE MANAGEMENT SYSTEMS II (3)",
+        "description": "Advanced database systems including object-oriented databases, query optimization, concurrency, and data security.",
+        "prerequisite": "COSC 457/COSC 578; or admission to the Information Technology PhD program"
+    },
+    {
+        "title": "COSC 661 ARTIFICIAL INTELLIGENCE PROGRAMMING AND ADAPTIVE SYSTEMS (3)",
+        "description": "Major differences between AI and conventional programming, including symbolic programming and adaptive systems. Languages like PROLOG and LISP will be introduced.",
+        "prerequisite": "COSC 461/COSC 581; or admission to the Information Technology PhD program"
+    },
+    {
+        "title": "COSC 665 EXPERT SYSTEM DESIGN AND DEVELOPMENT (3)",
+        "description": "Approaches and methods for expert system design, including analysis, prototyping, and development.",
+        "prerequisite": "COSC 581; or admission to the Information Technology PhD program"
+    },
+    {
+        "title": "COSC 670 SPECIAL TOPICS IN COMPUTER SCIENCE (3)",
+        "description": "Reading and study in selected topics in computer science with an emphasis on increased knowledge. A project or paper is required.",
+        "prerequisite": "COSC 600; or admission to the Information Technology PhD program"
+    },
+    {
+        "title": "COSC 680 SEMINAR IN COMPUTER SCIENCE (1)",
+        "description": "Presentation and discussion of research trends and advanced topics in computer science.",
+        "prerequisite": "Consent of instructor"
+    },
+    {
+        "title": "COSC 683 SECURITY AND INTERNET ALGORITHMS (3)",
+        "description": "Trends in designing algorithms for the Internet and security, including routing, compression, cryptology, and zero-knowledge protocols.",
+        "prerequisite": "COSC 600; or admission to the Information Technology PhD program"
+    },
+    {
+        "title": "COSC 685 INFORMATION SECURITY AND RISK MANAGEMENT (3)",
+        "description": "Explores risk assessment approaches for information systems, monitoring tools, and security frameworks.",
+        "prerequisite": "COSC 600 or AIT 500; or admission to the Information Technology PhD program"
+    },
+    {
+        "title": "COSC 686 COMPUTER GRAPHICS (3)",
+        "description": "Concepts of computer graphics including affine geometry, shading, rendering, texture mapping, and ray tracing.",
+        "prerequisite": "Admission to the MS in Computer Science or Information Technology PhD program"
+    },
+    {
+        "title": "COSC 695 INDEPENDENT STUDY IN COMPUTER SCIENCE (3)",
+        "description": "Independent study in selected areas of computer science.",
+        "prerequisite": "9 units at the graduate or upper-division level; and consent of instructor"
+    },
+    {
+        "title": "COSC 697 GRADUATE INTERNSHIP (3)",
+        "description": "Opportunity to work in a computing facility under supervision of faculty and industry professionals.",
+        "prerequisite": "Minimum 18 hours of graduate courses, GPA of 3.0+, and consent of Program Director"
+    },
+    {
+        "title": "COSC 710 SOCIAL NETWORK ANALYSIS (3)",
+        "description": "Concepts and hands-on techniques for analyzing large-scale social networks.",
+        "prerequisite": "COSC 600; or admission to the Information Technology PhD program"
+    },
+    {
+        "title": "COSC 715 ROBOTICS (3)",
+        "description": "Physical mechanisms of robotics, issues of modeling, planning control and programming. Principles underlying the design and analysis of robotic systems.",
+        "prerequisite": "COSC 600; or admission to the Information Technology PhD program"
+    },
+    {
+        "title": "COSC 716 OBJECT-ORIENTED METHODOLOGY (3)",
+        "description": "Object-oriented approach to modeling, problem solving, requirement analysis, system design, system implementation, database design, system engineering and software engineering.",
+        "prerequisite": "COSC 600; or admission to the Information Technology PhD program"
+    },
+    {
+        "title": "COSC 725 PROCESS CONTROL AND REAL-TIME SYSTEMS (3)",
+        "description": "Analog to digital and digital to analog conversions, signal conditioning and processing, adaptive control of nonlinear systems and real-time programming considerations.",
+        "prerequisite": "A course in computer architecture; or admission to the Information Technology PhD program"
+    },
+    {
+        "title": "COSC 732 WIRELESS NETWORKS AND MOBILE COMMUNICATIONS (3)",
+        "description": "Principles and practice of wireless networks and mobile communications, including cellular systems, satellite networks, wireless LANs, and mobile IP.",
+        "prerequisite": "COSC 650; or admission to the Information Technology PhD program"
+    },
+    {
+        "title": "COSC 734 NETWORK SECURITY (3)",
+        "description": "Principles and practice of network security, covering authentication services, IP security, Web security, wireless security, and system threats.",
+        "prerequisite": "COSC 650; or admission to the Information Technology PhD program"
+    },
+    {
+        "title": "COSC 735 ADVANCED TOPICS ON COMPUTER NETWORKS (3)",
+        "description": "Advanced networking topics including network design, threats, sensor/actor networks, and cyber-physical systems.",
+        "prerequisite": "COSC 650; or admission to the Information Technology PhD program"
+    },
+    {
+        "title": "COSC 740 PARALLEL COMPUTING (3)",
+        "description": "Parallel computing concepts including matrix algorithms, parallel programming, and optimization algorithms for sorting and searching.",
+        "prerequisite": "COSC 600 or equivalent and a course in linear algebra; or admission to the Information Technology PhD program"
+    },
+    {
+        "title": "COSC 741 E-COMMERCE CASE STUDIES (3)",
+        "description": "Key elements of E-commerce, system analysis, and B2B projects. Students analyze and implement parts of an E-business model.",
+        "prerequisite": "COSC 641; or admission to the Information Technology PhD program"
+    },
+    {
+        "title": "COSC 745 ADVANCED TOPICS IN COMPUTER SECURITY (3)",
+        "description": "In-depth study of computer security, including firewalls, intrusion detection, denial-of-service attacks, and mobile security.",
+        "prerequisite": "COSC 645; or admission to the Information Technology PhD program"
+    },
+    {
+        "title": "COSC 750 NEURAL NETWORKS AND DEEP LEARNING (3)",
+        "description": "Neural network and deep learning methods such as CNNs, RNNs, autoencoders, generative models, and LSTM.",
+        "prerequisite": "COSC 600 and COSC 757; or admission to the Information Technology PhD program"
+    },
+    {
+        "title": "COSC 757 DATA MINING (3)",
+        "description": "Introduction to data mining techniques and tools, with real-world applications such as Web mining.",
+        "prerequisite": "COSC 578; or admission to the Information Technology PhD program"
+    },
+    {
+        "title": "COSC 760 BIG DATA ANALYTICS (3)",
+        "description": "Study and practice of big data analytics, using frameworks like Hadoop, Spark, and NoSQL databases.",
+        "prerequisite": "COSC 578; or admission to the Information Technology PhD program"
+    },
+    {
+        "title": "COSC 795 RESEARCH SEMINAR (1)",
+        "description": "Students share and discuss research findings in information technology. Repeatable for up to 3 credits.",
+        "prerequisite": "N/A"
+    },
+    {
+        "title": "COSC 880 COMPUTER SCIENCE GRAD PROJECT (3)",
+        "description": "Conduct advanced studies or real-world application implementation. Graded S/U.",
+        "prerequisite": "Completion of at least 18 graduate credits towards the M.S. in Computer Science"
+    },
+    {
+        "title": "COSC 885 PROJECT CONTINUUM (1)",
+        "description": "Continuation of previously started project work.",
+        "prerequisite": "Previous registration for project work"
+    },
+    {
+        "title": "COSC 897 COMPUTER SCIENCE THESIS (6)",
+        "description": "Original research investigation using acceptable methods and design.",
+        "prerequisite": "Completion of at least 21 graduate credits toward an M.S. degree in Computer Science"
+    },
+    {
+        "title": "COSC 898 COMPUTER SCIENCE THESIS (3)",
+        "description": "A continuation of COSC 897, taken over two semesters. Graded S/U.",
+        "prerequisite": "Previous registration for COSC 897"
+    },
+    {
+        "title": "COSC 899 THESIS CONTINUUM (1)",
+        "description": "Continuation of graduate thesis with satisfactory progress. Graded S/U.",
+        "prerequisite": "Previous registration for graduate thesis"
+    }
+]

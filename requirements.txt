@@ -1,0 +1,6 @@
+Flask
+Flask-Cors
+requests
+openai
+python-dotenv
+langchain
